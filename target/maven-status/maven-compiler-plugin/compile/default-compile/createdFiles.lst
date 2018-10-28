@@ -1,10 +1,10 @@
 tutorial/Bank.class
 tutorial/ATMCard.class
-tutorial/CurrentAccount.class
 tutorial/SavingsAccount.class
+tutorial/CurrentAccount.class
 tutorial/Company.class
 tutorial/Owner.class
-tutorial/ATM$Status.class
 tutorial/ATM.class
 tutorial/Person.class
+tutorial/ATM$Status.class
 tutorial/BankAccount.class
